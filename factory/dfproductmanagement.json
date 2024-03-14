@@ -1,0 +1,9 @@
+{
+	"name": "dfproductmanagement",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "77348fdf-4008-462f-8428-f4f58f7360b7",
+		"tenantId": "79e54da9-525d-4261-b736-3971a936fdc5"
+	}
+}
